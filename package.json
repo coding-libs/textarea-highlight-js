@@ -14,20 +14,14 @@
     "url": "https://github.com/coding-libs/textarea-highlight-js.git"
   },
   "keywords": [
-    "ip",
     "libs",
     "coding",
-    "device",
-    "zkteco",
-    "address",
-    "realtime",
-    "realtime",
-    "real-time",
-    "biometric",
-    "atendance",
-    "zkteco-js",
-    "biometric attendance",
-    "biometric attendance device"
+    "textarea",
+    "highlight",
+    "highlightJs",
+    "Code Highligher",
+    "Highligher",
+    "editor"
   ],
   "author": "Coding Libs",
   "license": "MIT",
