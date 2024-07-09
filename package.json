@@ -1,7 +1,7 @@
 {
   "name": "textarea-highlight-js",
   "version": "0.0.0-development",
-  "description": "The zkteco library allows Node.js developers to easily interface with ZK BioMetric Fingerprint Attendance Devices, extract and manage data, and integrate biometric features into attendance systems efficiently.",
+  "description": "textarea-highlight-js is a powerful library designed for Node.js developers to seamlessly integrate visual code highlighting and live textarea code views into their applications. This library enhances the user experience by providing real-time syntax highlighting, making it easier to visualize and edit code within textareas.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"No tests specified\"",
